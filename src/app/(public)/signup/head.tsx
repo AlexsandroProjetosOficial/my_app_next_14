@@ -1,4 +1,4 @@
-export default function Head() {
+export default function SignUpHead() {
 	return (
 		<>
 			<title>Sign Up</title>

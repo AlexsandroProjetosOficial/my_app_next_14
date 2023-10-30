@@ -1,4 +1,4 @@
-export default function ControlHead() {
+export default function Head() {
   return (
     <>
       <title>Control</title>
